@@ -1,14 +1,14 @@
 \name{generatepriors}
 \alias{generatepriors}
 \title{
-A function to create pseudodata for \code{snpmclust} algorithm
+Generate pseudodata for \code{snpmclust}
 }
 \description{
-\code{generatepriors} creates bivariate normal pseudodata for the homozygous and heterozygous minor genotypes.
+Generates bivariate normal pseudodata for the homozygous and heterozygous minor genotypes.
 }
 \usage{
-generatepriors(x, y, calls, priorpoints = length(x) * 0.2, 
-               xm1 = NA, xm2 = NA, xm3 = NA, 
+generatepriors(x, y, calls, priorpoints = length(x) * 0.2,
+               xm1 = NA, xm2 = NA, xm3 = NA,
                ym1 = NA, ym2 = NA, ym3 = NA, ranseed = ranseed)
 }
 \arguments{
@@ -32,11 +32,11 @@ Random seed for generation of pseudodata.  The default is 1969.
 }
 }
 \value{
-A priorpoints-by-2 matrix.
+A \code{priorpoints}-by-2 matrix.
 }
 \author{
-Stephen W. Erickson, PhD \email{SErickson@uams.edu}
-with Joshua Callaway, MPH \email{jcallaw3@utk.edu}
+Stephen W. Erickson \email{serickson@rti.org}
+with Joshua Callaway \email{joshcllw@gmail.com}
 }
 \keyword{ priors }
 \keyword{ pseudodata }

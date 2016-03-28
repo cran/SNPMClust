@@ -1,10 +1,10 @@
-774efc9cbf05b801b200cb29d50bec20 *DESCRIPTION
-92ad3d4727ae489b900bd44db858b585 *NAMESPACE
+0b91f819cea0e10e8d2f63cf18df077e *DESCRIPTION
+95afedc0ce6b795483fc78273defbf68 *NAMESPACE
 a006481ffea6dc158a612586ffe19fd1 *R/generatepriors.R
 170bbdbee84f5240aafbfe29b5611510 *R/prepdata.R
-bfa441f242804fcafa7795b5a5747980 *R/snpmclust.R
+efa3d724f75e771c642e88b51c9b2d31 *R/snpmclust.R
 22998c199cb7daaff74aebbd0519e8a0 *data/testset.rda
-a4a640252a347de0f732316123c241e9 *man/generatepriors.Rd
-0b757d42eb4b4a0d1c1c0291c991c233 *man/prepdata.Rd
-3b1445a66079ccf41bd02567f1da280d *man/snpmclust.Rd
+21a81243c978e605d2c37624c7f9883e *man/generatepriors.Rd
+a8c76ba256a3c505cfe93d18647c9784 *man/prepdata.Rd
+d7837ccd4f5b760d2a79b5a3b89434c8 *man/snpmclust.Rd
 bdbec667b48aa0f31271b4ef3f061689 *man/testset.Rd
